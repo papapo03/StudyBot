@@ -1,0 +1,6 @@
+streamlit
+pypdf
+pillow
+groq
+langchain-groq
+pytesseract
